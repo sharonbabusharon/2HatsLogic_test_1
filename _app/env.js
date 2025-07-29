@@ -1,0 +1,1 @@
+export const env={"PUBLIC_WEBSITE_PLATFORM_SAMPLE_ASSETS_SERVER_ROOT_URL":"https://sample-assets.webweaver.app","PUBLIC_WEBSITE_PLATFORM_SINGLE_WEBSITE_CONSOLE_APP_FQDN":"console-sandbox.webweaver.app ","PUBLIC_WEBSITE_PLATFORM_SINGLE_WEBSITE_CONSOLE_APP_FQDN_PRODUCTION":"console.webweaver.app \n"}
