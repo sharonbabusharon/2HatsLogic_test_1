@@ -5,7 +5,7 @@
     import Products from "./Products.svelte";
     import Projects from "./Projects.svelte";
     import Footer from './Footer.svelte'
-    import './app.css'
+    // import './app.css'
 
 </script>
 
