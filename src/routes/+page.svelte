@@ -12,7 +12,7 @@
 <div class="main_container">
     <Navigation/>
     <Landing/>
-<!--    <Products/>-->
+    <Products/>
     <Projects/>
     <Footer/>
 </div>
